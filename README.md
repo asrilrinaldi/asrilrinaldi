@@ -1,4 +1,4 @@
-- Linkedin : asrilrinaldi
+- Linkedin : https://id.linkedin.com/in/asrilrinaldi
 - Instagram : asrilrinaldi_
 - email : asrilrinaldi@gmail.com
 
