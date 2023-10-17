@@ -1,6 +1,6 @@
 - Linkedin : https://id.linkedin.com/in/asrilrinaldi
 - Instagram : asrilrinaldi_
-- email : asrilrinaldi@gmail.com
+- email : asril.rinaldi@gmail.com
 
 <!---
 asrilrinaldi/asrilrinaldi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
